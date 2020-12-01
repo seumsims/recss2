@@ -8,7 +8,7 @@ import Contact from './pages/Contact';
 import Porfolio from './pages/Portfolio';
 import Jsonrest from './pages/Jsonrest';
 import Post from './pages/Post';
-import {Route,Link, BrowserRouter as Router} from '../node_modules/react-router-dom';
+import {Route,Link, BrowserRouter as Router} from 'react-router-dom';
 
 
 const myrouter = (
